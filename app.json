@@ -28,6 +28,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "infoPlist":{
+      "NSLocationWhenInUsageDescription":"This app needs to use your location"
     }
   }
 }
